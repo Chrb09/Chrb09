@@ -13,4 +13,4 @@
 ## ⭐ Informações sobre minha conta GitHub
 
 [![iuricode](https://github-readme-stats.vercel.app/api?username=chrb09&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=chrb09&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=chrb09&layout=compact&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
