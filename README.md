@@ -30,7 +30,7 @@
   
 ## ⭐ Stats minha conta GitHub
 <div align="center">
-<img width="43%" height="195px" src="https://github-readme-stats.vercel.app/api?username=chrb09&show_icons=true&title_color=ff627f&text_color=fffefe&icon_color=ff627f&bg_color=282a36&locale=pt-br&hide_border=true" alt="Amanda github stats"> 
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=chrb09&show_icons=true&title_color=ff627f&text_color=fffefe&icon_color=ff627f&bg_color=282a36&locale=pt-br&hide_border=true" alt="Amanda github stats"> 
 <img width="38%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrb09&layout=compact&title_color=ff627f&text_color=fffefe&icon_color=ff627f&bg_color=282a36&locale=pt-br&hide_border=true">
 </div>
 
