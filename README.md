@@ -2,7 +2,7 @@
 
 ### Estudando Desenvolvimento de Sistemas na Etec/Fatec Zona Leste no segundo ano
 
-- 😺 Desenvolvimento de um site com mentorias da IBM **[Inclusipet](https://github.com/Chrb09/Inclusipet-Ibm)**
+- 😺 Desenvolvimento de um site com mentorias da IBM **[Inclusipet](https://github.com/Chrb09/InclusipetProject)**
 
 - 🌱 Atualmente estudando **React, Python, PHP, MySQL, Kotlin**
 
