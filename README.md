@@ -6,9 +6,9 @@
 
 - 📱 Aplicativo desse site **[Inclusipet Mobile](https://github.com/Chrb09/InclusipetProject_Mobile)**
 
-- 🌱 Atualmente estudando **React, Python, PHP, MySQL, Kotlin**
+- 🌱 Atualmente estudando **PHP, MySQL, Kotlin**
 
-- 🥴 Experiente com **HTML, CSS**
+- 🥴 Experiente com **HTML, CSS, JavaScript & PHP**
 
 - 📫 Contato **carloshrbarile@gmail.com**
 
@@ -29,6 +29,10 @@
 ![Figma](https://img.shields.io/badge/figma-ff627f.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-ff627f?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)
 ![VS](https://img.shields.io/badge/VSCode-ff627f?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Github](https://img.shields.io/badge/Github-ff627f?style=for-the-badge&logo=github&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-7d6472?style=for-the-badge&logo=markdown&logoColor=white)
+![Jquery](https://img.shields.io/badge/Jquery-7d6472?style=for-the-badge&logo=jquery&logoColor=white)
+![Nom](https://img.shields.io/badge/NPM-7d6472?style=for-the-badge&logo=npm&logoColor=white)
   
 ## ⭐ Stats minha conta GitHub
 <div align="center">
