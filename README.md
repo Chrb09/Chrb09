@@ -1,14 +1,10 @@
-# 🩷 Olá, meu nome é Carlos
-
-### Estudando Desenvolvimento de Sistemas na Etec/Fatec Zona Leste no segundo ano
+### Estudando Desenvolvimento de Sistemas na Etec/Fatec Zona Leste no terceiro ano
 
 - 😺 Desenvolvimento de um site com mentorias da IBM **[Inclusipet](https://github.com/Chrb09/InclusipetProject)**
 
 - 📱 Aplicativo desse site **[Inclusipet Mobile](https://github.com/Chrb09/InclusipetProject_Mobile)**
 
-- 🌱 Atualmente estudando **PHP, MySQL, Kotlin**
-
-- 🥴 Experiente com **HTML, CSS, JavaScript & PHP**
+- 🥴 Experiencia com **HTML, CSS, JavaScript, Java, PHP & Kotlin**
 
 - 📫 Contato **carloshrbarile@gmail.com**
 
