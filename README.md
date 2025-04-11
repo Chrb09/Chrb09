@@ -4,7 +4,7 @@
 
 - 📱 Aplicativo desse site **[Inclusipet Mobile](https://github.com/Chrb09/InclusipetProject_Mobile)**
 
-- 🥴 Experiencia com **HTML, CSS, JavaScript, Java, PHP & Kotlin**
+- 🥴 Experiente com **HTML, CSS, JavaScript, PHP & Kotlin**
 
 - 📫 Contato **carloshrbarile@gmail.com**
 
@@ -15,7 +15,7 @@
 ![image](https://img.shields.io/badge/JavaScript-ff627f?style=for-the-badge&logo=javascript&logoColor=white)
 ![image](https://img.shields.io/badge/Python-7d6472?style=for-the-badge&logo=python&logoColor=white)
 ![image](https://img.shields.io/badge/Node.js-7d6472?style=for-the-badge&logo=node.js&logoColor=white)
-![image](https://img.shields.io/badge/Java-ff627f?style=for-the-badge&logo=oracle&logoColor=white)
+![image](https://img.shields.io/badge/Java-7d6472?style=for-the-badge&logo=apachenetbeanside&logoColor=white)
 ![image](https://img.shields.io/badge/PHP-ff627f?style=for-the-badge&logo=php&logoColor=white)
 ![image](https://img.shields.io/badge/Kotlin-ff627f?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![image](https://img.shields.io/badge/React-7d6472?style=for-the-badge&logo=react&logoColor=white)
@@ -27,8 +27,12 @@
 ![VS](https://img.shields.io/badge/VSCode-ff627f?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Github](https://img.shields.io/badge/Github-ff627f?style=for-the-badge&logo=github&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-7d6472?style=for-the-badge&logo=markdown&logoColor=white)
-![Jquery](https://img.shields.io/badge/Jquery-7d6472?style=for-the-badge&logo=jquery&logoColor=white)
+![Jquery](https://img.shields.io/badge/Jquery-ff627f?style=for-the-badge&logo=jquery&logoColor=white)
+![AJAX](https://img.shields.io/badge/AJAX-7d6472?style=for-the-badge&logo=javascript&logoColor=white)
 ![Nom](https://img.shields.io/badge/NPM-7d6472?style=for-the-badge&logo=npm&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-7d6472?style=for-the-badge&logo=laravel&logoColor=white)
+![Firebase](https://img.shields.io/badge/FireBase-7d6472?style=for-the-badge&logo=firebase&logoColor=white)
+![TailWind](https://img.shields.io/badge/TailWind-7d6472?style=for-the-badge&logo=tailwindcss&logoColor=white)
   
 ## ⭐ Stats minha conta GitHub
 <div align="center">
