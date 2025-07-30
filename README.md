@@ -1,3 +1,4 @@
+<!-- Todo: Mudar Introdução -->
 ### Estudando Desenvolvimento de Sistemas na Etec/Fatec Zona Leste no terceiro ano
 
 - 😺 Desenvolvimento de um site com mentorias da IBM **[Inclusipet](https://github.com/Chrb09/InclusipetProject)**
@@ -9,30 +10,33 @@
 - 📫 Contato **carloshrbarile@gmail.com**
 
 ## 💻 Minhas Skills
-
-![image](https://img.shields.io/badge/HTML-ff627f?style=for-the-badge&logo=html5&logoColor=white)
-![image](https://img.shields.io/badge/CSS-ff627f?&style=for-the-badge&logo=css3&logoColor=white)
-![image](https://img.shields.io/badge/JavaScript-ff627f?style=for-the-badge&logo=javascript&logoColor=white)
-![image](https://img.shields.io/badge/Python-7d6472?style=for-the-badge&logo=python&logoColor=white)
-![image](https://img.shields.io/badge/Node.js-7d6472?style=for-the-badge&logo=node.js&logoColor=white)
-![image](https://img.shields.io/badge/Java-7d6472?style=for-the-badge&logo=apachenetbeanside&logoColor=white)
-![image](https://img.shields.io/badge/PHP-ff627f?style=for-the-badge&logo=php&logoColor=white)
-![image](https://img.shields.io/badge/Kotlin-ff627f?&style=for-the-badge&logo=kotlin&logoColor=white)
-![image](https://img.shields.io/badge/React-7d6472?style=for-the-badge&logo=react&logoColor=white)
-![image](https://img.shields.io/badge/Bootstrap-7d6472?style=for-the-badge&logo=bootstrap&logoColor=white)
-![image](https://img.shields.io/badge/MySQL-ff627f?style=for-the-badge&logo=mysql&logoColor=white)
-![image](https://img.shields.io/badge/Git-ff627f?style=for-the-badge&logo=git&logoColor=white)
+<!-- Todo: Separar isso -->
+![HTML](https://img.shields.io/badge/HTML-ff627f?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-ff627f?&style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ff627f?style=for-the-badge&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-7d6472?style=for-the-badge&logo=python&logoColor=white)
+![Node](https://img.shields.io/badge/Node.js-7d6472?style=for-the-badge&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/Java-7d6472?style=for-the-badge&logo=apachenetbeanside&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-ff627f?style=for-the-badge&logo=php&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-ff627f?&style=for-the-badge&logo=kotlin&logoColor=white)
+![React](https://img.shields.io/badge/React-ff627f?style=for-the-badge&logo=react&logoColor=white)
+![NextJS](https://img.shields.io/badge/NextJS-ff627f?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![BootStrap](https://img.shields.io/badge/Bootstrap-7d6472?style=for-the-badge&logo=bootstrap&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-ff627f?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-ff627f?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-ff627f.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-ff627f?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)
 ![VS](https://img.shields.io/badge/VSCode-ff627f?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Github](https://img.shields.io/badge/Github-ff627f?style=for-the-badge&logo=github&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-7d6472?style=for-the-badge&logo=markdown&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-ff627f?style=for-the-badge&logo=markdown&logoColor=white)
 ![Jquery](https://img.shields.io/badge/Jquery-ff627f?style=for-the-badge&logo=jquery&logoColor=white)
 ![AJAX](https://img.shields.io/badge/AJAX-7d6472?style=for-the-badge&logo=javascript&logoColor=white)
 ![Nom](https://img.shields.io/badge/NPM-7d6472?style=for-the-badge&logo=npm&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-7d6472?style=for-the-badge&logo=laravel&logoColor=white)
 ![Firebase](https://img.shields.io/badge/FireBase-7d6472?style=for-the-badge&logo=firebase&logoColor=white)
-![TailWind](https://img.shields.io/badge/TailWind-7d6472?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![TailWind](https://img.shields.io/badge/TailWind-ff627f?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-7d6472?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-7d6472?style=for-the-badge&logo=flutter&logoColor=white)
   
 ## ⭐ Stats minha conta GitHub
 <div align="center">
