@@ -7,8 +7,6 @@
 
 - 🥴 Experiente com **HTML, CSS, JavaScript, PHP & Kotlin**
 
-- 📫 Contato **carloshrbarile@gmail.com**
-
 ## 💻 Minhas Skills
 <!-- Todo: Separar isso -->
 ![HTML](https://img.shields.io/badge/HTML-ff627f?style=for-the-badge&logo=html5&logoColor=white)
