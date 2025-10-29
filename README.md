@@ -12,8 +12,8 @@
 ![HTML](https://img.shields.io/badge/HTML-ff627f?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-ff627f?&style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ff627f?style=for-the-badge&logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-7d6472?style=for-the-badge&logo=python&logoColor=white)
-![Node](https://img.shields.io/badge/Node.js-7d6472?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-ff627f?style=for-the-badge&logo=python&logoColor=white)
+![Node](https://img.shields.io/badge/Node.js-ff627f?style=for-the-badge&logo=node.js&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-7d6472?style=for-the-badge&logo=apachenetbeanside&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-ff627f?style=for-the-badge&logo=php&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-ff627f?&style=for-the-badge&logo=kotlin&logoColor=white)
@@ -29,12 +29,12 @@
 ![Markdown](https://img.shields.io/badge/Markdown-ff627f?style=for-the-badge&logo=markdown&logoColor=white)
 ![Jquery](https://img.shields.io/badge/Jquery-ff627f?style=for-the-badge&logo=jquery&logoColor=white)
 ![AJAX](https://img.shields.io/badge/AJAX-7d6472?style=for-the-badge&logo=javascript&logoColor=white)
-![Nom](https://img.shields.io/badge/NPM-7d6472?style=for-the-badge&logo=npm&logoColor=white)
+![Npm](https://img.shields.io/badge/NPM-ff627f?style=for-the-badge&logo=npm&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-7d6472?style=for-the-badge&logo=laravel&logoColor=white)
-![Firebase](https://img.shields.io/badge/FireBase-7d6472?style=for-the-badge&logo=firebase&logoColor=white)
+![Firebase](https://img.shields.io/badge/FireBase-ff627f?style=for-the-badge&logo=firebase&logoColor=white)
 ![TailWind](https://img.shields.io/badge/TailWind-ff627f?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-7d6472?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-7d6472?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-ff627f?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-ff627f?style=for-the-badge&logo=flutter&logoColor=white)
   
 ## ⭐ Stats minha conta GitHub
 <div align="center">
