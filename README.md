@@ -1,11 +1,5 @@
 <!-- Todo: Mudar Introdução -->
-### Estudando Desenvolvimento de Sistemas na Etec/Fatec Zona Leste no terceiro ano
-
-- 😺 Desenvolvimento de um site com mentorias da IBM **[Inclusipet](https://github.com/Chrb09/InclusipetProject)**
-
-- 📱 Aplicativo desse site **[Inclusipet Mobile](https://github.com/Chrb09/InclusipetProject_Mobile)**
-
-- 🥴 Experiente com **HTML, CSS, JavaScript, PHP & Kotlin**
+### Estudando Análise e Desenvolvimento de Sistemas na Fatec Zona Leste
 
 ## 💻 Minhas Skills
 <!-- Todo: Separar isso -->
