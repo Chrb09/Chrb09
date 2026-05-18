@@ -29,13 +29,6 @@
 ![TailWind](https://img.shields.io/badge/TailWind-ff627f?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-ff627f?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-ff627f?style=for-the-badge&logo=flutter&logoColor=white)
-  
-## ⭐ Stats minha conta GitHub
-<div align="center">
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Apolo-Heh&show_icons=true&count_private=true&title_color=ff627f&text_color=fffefe&icon_color=ff627f&bg_color=282a36&locale=pt-br&hide_border=true" alt="Apolo-Heh github stats"> 
-<img width="38%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apolo-Heh&layout=compact&count_private=true&title_color=ff627f&text_color=fffefe&icon_color=ff627f&bg_color=282a36&locale=pt-br&hide_border=true">
-</div>
-
 
 
 
